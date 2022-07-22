@@ -1,0 +1,15 @@
+.CreateNewPhoto {
+	display: grid;
+	place-items: center;
+    width: 100vw;
+	height: 100vh;
+}
+
+.CreateNewPhoto .fab {
+    margin: 0px;
+    top: auto;
+    right: 20px;
+    bottom: 20px;
+    left: auto;
+    position: fixed;
+};
